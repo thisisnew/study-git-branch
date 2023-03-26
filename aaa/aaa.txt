@@ -4,23 +4,15 @@ this is aaa branch3
 this is aaa branch4
 this is aaa branch5
 this is aaa branch6
-
-
-
-
-
 this is aaa branch7
 this is aaa branch8
 this is aaa branch9
-
 this is aaa branch10
 this is aaa branch11
 this is aaa branch12
-
 this is aaa branch13
 this is aaa branch14
 this is aaa branch15
-
 this is aaa branch16
 this is aaa branch17
 this is aaa branch18
